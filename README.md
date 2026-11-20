@@ -8,7 +8,7 @@ A municipality-level decision-support project that identifies and prioritises lo
 
 The project does **not** assume that the municipality with the highest ageing index is automatically the best location. It uses a transparent multi-criteria framework and keeps demand, supply, pressure, socioeconomic context, geography, and feasibility conceptually separate.
 
-![Executive dashboard](assets/executive_dashboard.png)
+![Executive dashboard](assets/Executive%20dashboard.png)
 
 ## Project scope
 
